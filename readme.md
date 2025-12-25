@@ -1,3 +1,5 @@
+This repository contains prompt template, showing the best practices to create effective prompts for GitHub Copilot MCP agents. Prompt template can be tried without the github mcp server as well.
+
 Notes:
 1. Make the prompts part of shared repository.
 Add your central prompt repo as a Git Submodule inside the .github directory of your main projects. This keeps the templates in a single central repo, but "projects" them into every other repo. When you update the central repo, you just update the submodule reference.
