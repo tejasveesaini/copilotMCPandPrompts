@@ -10,9 +10,11 @@ https://github.com/github/awesome-copilot?tab=readme-ov-file#-custom-instruction
 
 ## Output from [Prompt projectInfo.prompt.md](.github/prompts/projectInfo.prompt.md)
 
+(In the github copilot, entered /projectinfo)
 
 tejasveesaini: Follow instructions in [projectInfo.prompt.md](file:///Users/tejasveesaini/vs%20code%20projects/copilotMCPandPrompts/.github/prompts/projectInfo.prompt.md).
 
+(Checked if it asks for the variabl defined in the prompt)
 GitHub Copilot: I need the repository link to analyze the project. Please provide the `${repolink}`.
 
 tejasveesaini: https://github.com/microsoft/playwright
