@@ -21,11 +21,11 @@ https://github.com/github/awesome-copilot?tab=readme-ov-file#-custom-instruction
 **tejasveesaini**: https://github.com/microsoft/playwright
 
 **GitHub Copilot**: Ran Get file or directory contents 
-Completed with input: {
+Completed with input: `{
   "path": "README.md",
   "repo": "playwright",
   "owner": "microsoft"
-}
+}`
 
 ## 1. Repository Overview
 
