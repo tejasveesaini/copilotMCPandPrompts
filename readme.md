@@ -12,15 +12,15 @@ https://github.com/github/awesome-copilot?tab=readme-ov-file#-custom-instruction
 
 (In the github copilot, entered /projectinfo)
 
-tejasveesaini: Follow instructions in [projectInfo.prompt.md](file:///Users/tejasveesaini/vs%20code%20projects/copilotMCPandPrompts/.github/prompts/projectInfo.prompt.md).
+**tejasveesaini**: Follow instructions in [projectInfo.prompt.md](file:///Users/tejasveesaini/vs%20code%20projects/copilotMCPandPrompts/.github/prompts/projectInfo.prompt.md).
 
 (Checked if it asks for the variabl defined in the prompt)
 
-GitHub Copilot: I need the repository link to analyze the project. Please provide the `${repolink}`.
+**GitHub Copilot**: I need the repository link to analyze the project. Please provide the `${repolink}`.
 
-tejasveesaini: https://github.com/microsoft/playwright
+**tejasveesaini**: https://github.com/microsoft/playwright
 
-GitHub Copilot: Ran Get file or directory contents 
+**GitHub Copilot**: Ran Get file or directory contents 
 Completed with input: {
   "path": "README.md",
   "repo": "playwright",
