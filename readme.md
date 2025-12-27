@@ -7,10 +7,23 @@ Add your central prompt repo as a Git Submodule inside the .github directory of 
 2. Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot:
 https://github.com/github/awesome-copilot?tab=readme-ov-file#-custom-instructions
 
+### Core Principles for Effective Prompting
+1. Clarity and Specificity: Use direct, simple language. Avoid vague queries; define exactly what you need.
+2. Context : Provide background information, such as the intended audience or the purpose of the task.
+3. Assign a Role (Persona): Instruct the model to act as a specific expert (e.g., "Act as a senior software engineer").
+4. Define Constraints: Specify length, tone, style, and what to avoid (e.g., "Keep it under 200 words," "Use a professional tone").
+5. Structure the Input: Use delimiters (like """ or ###) to clearly separate instructions from the data to be processed. 
+#### Advanced Techniques
+1. Few-Shot Prompting: Provide one or more examples of input and desired output to guide the model.
+2. Chain-of-Thought (CoT): Ask the model to "think step-by-step" or explain its reasoning to improve accuracy on complex tasks.
+3. Iterative Refinement: Treat prompting as a process. Test, evaluate the output, and refine the prompt.
+4. Break Down Complex Tasks: Instead of one massive prompt, divide the task into smaller, sequential steps.
+5. Let the AI Ask Questions: Instruct the model to ask clarifying questions until it has enough information to fulfill the request.
 
-## Output from [Prompt projectInfo.prompt.md](.github/prompts/projectInfo.prompt.md)
+### Working example:
+#### Output from [Prompt projectInfo.prompt.md](.github/prompts/projectInfo.prompt.md)
 
-(In the github copilot, entered /projectinfo)
+(In the github copilot, enter /projectinfo)
 
 **tejasveesaini**: Follow instructions in [projectInfo.prompt.md](file:///Users/tejasveesaini/vs%20code%20projects/copilotMCPandPrompts/.github/prompts/projectInfo.prompt.md).
 
