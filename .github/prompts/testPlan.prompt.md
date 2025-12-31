@@ -9,8 +9,8 @@ Analyze the provided Feature Document and create a comprehensive **Test Plan** a
 
 ---
 # Output documents 
-@output/{feature-name}/test-plan.md
-@output/{feature-name}/test-cases.md
+@resources/output/{feature-name}/test-plan.md
+@resources/output/{feature-name}/test-cases.md
 
 # Requirements for the Test Plan
 1.  **Testing Scope:** Define what is in-scope and out-of-scope based on the document.
